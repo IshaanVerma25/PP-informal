@@ -1,0 +1,6 @@
+torch>=2.2
+numpy
+scipy
+scikit-image
+# optional, only for converting RSNA TFRecords once:
+tensorflow
